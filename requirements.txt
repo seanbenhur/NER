@@ -1,0 +1,8 @@
+joblib==1.0.1
+numpy==1.19.5
+tensorflow==2.4.1
+requests==2.23.0
+matplotlib==3.2.2
+pandas==1.1.5
+livelossplot==0.5.4
+scikit_learn==0.24.1
